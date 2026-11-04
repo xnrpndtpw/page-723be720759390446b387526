@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-acafe745bb.huishanjob.cn/sitemap.xml

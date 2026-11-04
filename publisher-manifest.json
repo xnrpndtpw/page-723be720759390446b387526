@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "39a2abd2168e652a2e46143b",
+  "owner": "xnrpndtpw",
+  "repo": "page-723be720759390446b387526",
+  "title": "NaiKo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "723be720759390446b387526",
+      "a": "NaiKo",
+      "b": "",
+      "entity": "NaiKo",
+      "brand": "NaiKo",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2c10f097eb99b4f4905c669bec93a6cd98605808c4e92f83eb4a4007557b3023",
+      "content": {
+        "keyword1": "NaiKo",
+        "keyword2": "",
+        "primary_entity": "NaiKo",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "NaiKo机场套餐说明页：整理基础版、旗舰版、团队版三档套餐的价格与权益，并附客户端导入步骤、使用说明与常见问题解答，帮助你选对档位、快速上手。",
+          "AI_DESCRIPTION": "NaiKo机场套餐说明页：整理基础版、旗舰版、团队版三档套餐的价格与权益，并附客户端导入步骤、使用说明与常见问题解答，帮助你选对档位、快速上手。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--orange:#ff5a00;--orange-deep:#e04a00;--tint:#fff3ea;--ink:#191919;--grey:#6f6f6f;--line:#ececec}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;color:var(--ink);background:#fff;line-height:1.8;padding-bottom:64px}\na{color:var(--orange-deep);text-decoration:none}\n.wrap{max-width:1080px;margin:0 auto;padding:0 22px}\n\n.hero-band-top{background:var(--orange);color:#fff}\n.hero-band-top .wrap{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;padding-top:14px;padding-bottom:14px;font-size:14px;letter-spacing:.18em}\n.hero-main{background:var(--orange);border-top:1px solid rgba(255,255,255,.45);padding:64px 0 72px}\n.hero-main h1{color:#fff;font-size:clamp(56px,12vw,132px);letter-spacing:.02em;line-height:1.05;font-weight:800}\n.hero-main p{color:#fff;font-size:clamp(17px,2.4vw,22px);margin-top:16px;max-width:34em}\n.hero-strip{background:var(--tint);border-top:3px solid #ffd6bd;padding:16px 0}\n.hero-strip .wrap{display:flex;flex-wrap:wrap;gap:10px 28px;font-size:14px;color:var(--orange-deep);font-weight:600;letter-spacing:.08em}\n.hero-thin{background:var(--ink);color:#fff;padding:10px 0;font-size:13px;letter-spacing:.24em;text-align:center}\n\nsection{padding:64px 0}\n.sec-head{margin-bottom:34px}\n.sec-head .no{display:inline-block;font-size:13px;letter-spacing:.2em;color:var(--orange-deep);font-weight:700;border-left:4px solid var(--orange);padding-left:10px;margin-bottom:10px}\nh2{font-size:clamp(26px,4vw,36px);line-height:1.3}\nh3{font-size:19px;margin-bottom:10px}\n.lead{color:var(--grey);margin-top:10px;max-width:44em}\n.prose p{margin-bottom:16px;max-width:46em}\n.prose p:last-child{margin-bottom:0}\nem{font-style:normal;color:var(--orange-deep);font-weight:700}\n\n.card{background:#fff;border:1px solid var(--line);border-left:5px solid var(--orange);padding:22px 24px;margin-bottom:18px}\n.card.soft{background:var(--tint);border-color:transparent}\n\n.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:18px}\n.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}\n.step-no{font-size:15px;font-weight:800;color:var(--orange-deep);letter-spacing:.14em;margin-bottom:6px}\n\n.table-wrap{overflow-x:auto;border:1px solid var(--line)}\ntable{width:100%;border-collapse:collapse;min-width:640px;font-size:15px}\nth,td{padding:14px 16px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}\nthead th{background:var(--tint);font-size:16px;border-bottom:2px solid var(--orange)}\nthead th.feat-col{width:26%}\ntbody th{font-weight:600;color:var(--ink);background:#fff;border-bottom:1px solid var(--line)}\ntbody td{color:#3c3c3c}\ntd .price{font-size:22px;font-weight:800;color:var(--orange-deep)}\ntd .annual{font-size:13px;color:var(--grey);display:block;margin-top:4px}\n.pill{display:inline-block;background:var(--orange);color:#fff;font-size:12px;padding:2px 10px;border-radius:999px;margin-left:8px;letter-spacing:.1em;vertical-align:middle}\ntbody tr.dim td{background:#fffaf6}\ntbody tr:last-child th,tbody tr:last-row td{border-bottom:none}\n\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:0 40px}\n.faq-item{border-top:1px solid var(--line);padding:22px 0 26px;break-inside:avoid}\n.faq-item h3{font-size:17px;position:relative;padding-left:18px}\n.faq-item h3::before{content:\"Q\";position:absolute;left:0;top:1px;color:var(--orange);font-weight:800;font-size:16px}\n.faq-item p{color:#4a4a4a;font-size:15px;margin-top:8px;padding-left:18px}\n\nfooter{background:var(--ink);color:#cfcfcf;padding:44px 0 52px;font-size:14px}\nfooter strong{color:#fff;font-size:18px;letter-spacing:.06em}\nfooter p{margin-top:12px;max-width:52em}\nfooter .foot-links{margin-top:18px;display:flex;flex-wrap:wrap;gap:8px 24px}\nfooter .foot-links a{color:#ffb489}\n\n.bottom-nav{position:fixed;left:0;right:0;bottom:0;z-index:9;background:#fff;border-top:1px solid var(--line);box-shadow:0 -4px 14px rgba(0,0,0,.06)}\n.bottom-nav .wrap{display:flex;justify-content:space-between;padding-top:12px;padding-bottom:12px}\n.bottom-nav a{color:var(--ink);font-size:14px;font-weight:600;letter-spacing:.1em;padding:2px 4px}\n.bottom-nav a:hover,.bottom-nav a.hot{color:var(--orange)}\n\n@media (max-width:760px){\n  .grid-2,.faq-grid{grid-template-columns:1fr}\n  .grid-4{grid-template-columns:1fr 1fr}\n  section{padding:48px 0}\n  .bottom-nav a{font-size:12.5px;letter-spacing:.04em}\n  .bottom-nav .wrap{gap:4px}\n}\n</style><header id=\"top\">\n  <div class=\"hero-band-top\">\n    <div class=\"wrap\">\n      <span>NAIKO · 套餐 · 客户端 · 使用说明</span>\n      <span>一份写给新用户的完整指南</span>\n    </div>\n  </div>\n  <div class=\"hero-main\">\n    <div class=\"wrap\">\n      <h1>NaiKo</h1>\n      <p>从三档套餐到客户端导入，再到那些你迟早会问的问题——这一页把 NaiKo 的使用全流程一次讲完，省得你去各处翻找。</p>\n    </div>\n  </div>\n  <div class=\"hero-strip\">\n    <div class=\"wrap\">\n      <span>基础版 ¥15/月</span>\n      <span>旗舰版 ¥35/月</span>\n      <span>团队版 ¥85/月</span>\n      <span>均支持按年付费</span>\n    </div>\n  </div>\n  <div class=\"hero-thin\">SELECT PLAN · IMPORT · CONNECT</div>\n</header>\n\n<main>\n\n  <section id=\"about\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <span class=\"no\">01 / 开场白</span>\n        <h2>先说清楚：这一页是干什么的</h2>\n        <p class=\"lead\">作者视角的介绍，不绕弯子。</p>\n      </div>\n      <div class=\"prose\">\n        <p>大多数机场的介绍页，要么把套餐表甩给你就算完事，要么通篇形容词却找不到一句能落地的话。NaiKo 这页想反着来：先给你一张能横向对比的套餐表，再手把手讲清楚拿到订阅之后该做什么，最后把常见问题集中放在一处。</p>\n        <p>如果你是第一次接触这类服务，建议按顺序读完<em>套餐、使用说明、客户端、常见问题</em>四个部分，大概十分钟；如果你只是来比价的，直接跳到下面的对比表即可。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <span class=\"no\">02 / 套餐</span>\n        <h2>三档套餐，一张表横向比</h2>\n        <p class=\"lead\">价格与权益如下表所示；具体以订阅页实际展示为准。</p>\n      </div>\n      <div class=\"table-wrap\">\n        <table>\n          <thead>\n            <tr>\n              <th class=\"feat-col\">对比项</th>\n              <th>基础版</th>\n              <th>旗舰版<span class=\"pill\">推荐</span></th>\n              <th>团队版</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <th>月付价格</th>\n              <td><span class=\"price\">¥15</span><span class=\"monthly\">每月</span></td>\n              <td><span class=\"price\">¥35</span><span class=\"monthly\">每月</span></td>\n              <td><span class=\"price\">¥85</span><span class=\"monthly\">每月</span></td>\n            </tr>\n            <tr class=\"dim\">\n              <th>年付价格</th>\n              <td><span class=\"annual\">按年付 ¥150/年</span></td>\n              <td><span class=\"annual\">按年付 ¥350/年</span></td>\n              <td><span class=\"annual\">按年付 ¥850/年</span></td>\n            </tr>\n            <tr>\n              <th>每月流量</th>\n              <td>100GB 极速流量</td>\n              <td>300GB 极速流量</td>\n              <td>1000GB 极速流量</td>\n            </tr>\n            <tr>\n              <th>同时在线设备</th>\n              <td>3 台</td>\n              <td>5 台</td>\n              <td>20 台</td>\n            </tr>\n            <tr>\n              <th>流媒体解锁</th>\n              <td>解锁基础流媒体</td>\n              <td>全节点原生流媒体解锁</td>\n              <td>全节点解锁</td>\n            </tr>\n            <tr>\n              <th>线路与加速</th>\n              <td>普通线路节点池</td>\n              <td>IPLC 专线游戏加速优化</td>\n              <td>VIP 专属高带宽节点</td>\n            </tr>\n            <tr>\n              <th>其他权益</th>\n              <td>—</td>\n              <td>7x24 优先工单支持</td>\n              <td>支持企业定制路由、专属客户经理服务</td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n      <div class=\"prose\">\n        <p>怎么选，我的建议很简单：<em>一个人日常用，基础版够</em>；追原生流媒体、打游戏在意延迟，旗舰版的 IPLC 加速和优先工单值得多出的差价；如果是一个小团队共用，20 台设备加专属客户经理的团队版明显更划算。年付都比月付×12 便宜，确定会用满一年就别犹豫。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <span class=\"no\">03 / 使用说明</span>\n        <h2>从零到连上，四步走完</h2>\n        <p class=\"lead\">整个过程不涉及任何复杂操作，照着做即可。</p>\n      </div>\n      <div class=\"grid-4\">\n        <div class=\"card\">\n          <div class=\"step-no\">STEP 01</div>\n          <h3>保存订阅信息</h3>\n          <p>开通后你会获得订阅链接与账号信息，第一时间妥善保存，这是后续所有步骤的入口。</p>\n        </div>\n        <div class=\"card\">\n          <div class=\"step-no\">STEP 02</div>\n          <h3>导入客户端</h3>\n          <p>打开你惯用的机场客户端，在订阅设置里粘贴链接并更新，节点列表会自动同步下来。</p>\n        </div>\n        <div class=\"card\">\n          <div class=\"step-no\">STEP 03</div>\n          <h3>挑选节点</h3>\n          <p>在列表里选择一个延迟表现可接受的节点，不确定就先从默认推荐开始。</p>\n        </div>\n        <div class=\"card\">\n          <div class=\"step-no\">STEP 04</div>\n          <h3>开启连接</h3>\n          <p>点击连接开关，状态显示已连接后即可正常使用，之后基本无需再管。</p>\n        </div>\n      </div>\n      <div class=\"card soft\">\n        <h3>几点使用习惯上的提醒</h3>\n        <p>同时在线设备数不要超套餐上限，超了容易顶掉线；一台设备长期不用，记得先断开再换设备；遇到打不开的情况，优先尝试切换节点或更新一次订阅，多数小问题都能这两招解决。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <span class=\"no\">04 / 客户端</span>\n        <h2>关于客户端，说点实话</h2>\n        <p class=\"lead\">没有下载地址，也不打算给你绕弯子。</p>\n      </div>\n      <div class=\"grid-2\">\n        <div class=\"card\">\n          <h3>不需要专属 App</h3>\n          <p>NaiKo 不搞独立客户端那一套。本页不提供下载地址——开通后你拿到的是接入信息，导入你手头已经在用的机场客户端即可，电脑和手机上的操作流程大体一致。</p>\n        </div>\n        <div class=\"card\">\n          <h3>换设备也不麻烦</h3>\n          <p>换新设备时，把同一个订阅链接再导入一次就行。注意各档位的同在线设备数上限：基础版 3 台、旗舰版 5 台、团队版 20 台，用不到的设备记得先断开。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"wrap\">\n      <div class=\"sec-head\">\n        <span class=\"no\">05 / 常见问题</span>\n        <h2>双栏问答：你可能马上会问的八件事</h2>\n        <p class=\"lead\">答案基于上文套餐表与使用流程整理。</p>\n      </div>\n      <div class=\"faq-grid\">\n        <div class=\"faq-item\">\n          <h3>NaiKo 一共有几档套餐？</h3>\n          <p>共三档：基础版 ¥15/月（100GB、3 台设备）、旗舰版 ¥35/月（300GB、5 台设备、IPLC 游戏加速）、团队版 ¥85/月（1000GB、20 台设备、专属客户经理）。三档均支持按年付费，年付分别为 ¥150、¥350、¥850。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>按月付还是按年付划算？</h3>\n          <p>年付价格约为月付的十个月，相当于买一年省两个月。确定要长期用就选年付；只是先试试水，从月付开始更灵活。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>订购之后怎么开始使用？</h3>\n          <p>四步：保存好订阅链接 → 粘贴导入你惯用的客户端并更新 → 在节点列表里挑一个延迟可接受的节点 → 开启连接。详细说明见上文「使用说明」部分。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>需要下载专门的软件吗？</h3>\n          <p>不需要。NaiKo 没有专属 App，本页也不提供任何下载地址。开通后获取接入信息，导入你现有的机场客户端即可使用。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>一个账号能几台设备同时在线？</h3>\n          <p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出上限可能导致先前的设备被顶下线，长期不用的设备建议主动断开。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>每月流量会重置吗？用超了怎么办？</h3>\n          <p>各档位流量按月计算额度（100GB / 300GB / 1000GB）。如当月用量明显偏高，可考虑升级到更高档位；具体重置与升级规则以订阅页实际展示为准。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>遇到问题能找谁？</h3>\n          <p>旗舰版含 7x24 优先工单支持，团队版配有专属客户经理。基础版用户可通过常规咨询渠道反馈问题。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>连接不上或网页打不开怎么办？</h3>\n          <p>先按顺序排查：切换到其他节点 → 在客户端里手动更新一次订阅 → 检查同时在线设备是否超限。绝大多数小问题都能在前两步解决。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n</main>\n\n<footer>\n  <div class=\"wrap\">\n    <strong>NaiKo</strong>\n    <p>本页为 NaiKo 套餐、客户端与使用说明的介绍页。套餐价格与权益以订阅页实际展示为准；页面不提供任何客户端下载地址，也不会主动索取你的账号信息。</p>\n    <div class=\"foot-links\">\n      <a href=\"#top\">回到首屏</a>\n      <a href=\"#plans\">查看套餐</a>\n      <a href=\"#guide\">使用说明</a>\n      <a href=\"#clients\">客户端说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </div>\n</footer>\n\n<nav class=\"bottom-nav\" aria-label=\"页面导航\">\n  <div class=\"wrap\">\n    <a href=\"#top\" class=\"hot\">NaiKo</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#guide\">使用说明</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n    <a href=\"#top\">回到顶部</a>\n  </div>\n</nav>",
+          "hash": "2978dd31de12996cbcf57550ab3eab5b07336f59ebec802fdae9c20221428936",
+          "seo": {
+            "title": "NaiKo官网｜NaiKo机场套餐、客户端与使用说明",
+            "keywords": "NaiKo,NaiKo官网,NaiKo机场,NaiKo机场官网,机场套餐,机场客户端,机场使用说明",
+            "description": "NaiKo机场套餐说明页：整理基础版、旗舰版、团队版三档套餐的价格与权益，并附客户端导入步骤、使用说明与常见问题解答，帮助你选对档位、快速上手。"
+          },
+          "provider": "deepseek",
+          "model": "zai-org/GLM-5.3",
+          "design": {
+            "no": "9375",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huishanjob.cn",
+    "host": "p-acafe745bb.huishanjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "21ecbb0420064dd9970b61ca97e9e3b4d566064bf80651dc743a51aa8a5791d2",
+    "sitemap.xml": "20450b5836c89b65a109113ad8da1f8f09d26bc9ce3fe707fead0a2d2e031360",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5a2796af296a186956b10daea1b50aab9263466fe2a8231b563d0ea11ca87432",
+    "robots.txt": "d865051dd5b7128196395dc6a35984686061707a2f45b97e437abdc15d91e0a5",
+    "b59fcbc3b3b9c598d669d6cf9ce07b8e.txt": "3e08d9262a2c9fc7e2df248497b6de98f57cfabbed0a2d11dbb203712c5aa3e9"
+  },
+  "revision": "b3ed164aa14adcbab318dea6f282c73d5852e5c65751d74975dca81449c8f0d8"
+}
